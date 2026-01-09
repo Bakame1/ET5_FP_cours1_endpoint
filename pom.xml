@@ -8,7 +8,7 @@
         <version>4.0.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>org.example</groupId>
+    <groupId>controller</groupId>
     <artifactId>ET5_FP_cours1_endpoint</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>ET5_FP_cours1_endpoint</name>
